@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1475553550 source:c:\projects\clabs\tsd_lab01_ver6\main.cpp
+	"BigDouble.h"
+
+1475532052 c:\projects\clabs\tsd_lab01_ver6\bigdouble.h
+	"BigInt.h"
+	"math.h"
+
+1475481095 c:\projects\clabs\tsd_lab01_ver6\bigint.h
+	<iostream>
+	<stdio.h>
+
+1475560405 source:c:\projects\clabs\tsd_lab01_ver6\bigdouble.cpp
+	"BigDouble.h"
+
+1475559780 source:c:\projects\clabs\tsd_lab01_ver6\bigint.cpp
+	"BigInt.h"
+
+1475532140 source:k:\clabs\tsd_lab01_ver6\main.cpp
+	"BigDouble.h"
+
+1475532052 k:\clabs\tsd_lab01_ver6\bigdouble.h
+	"BigInt.h"
+	"math.h"
+
+1475481096 k:\clabs\tsd_lab01_ver6\bigint.h
+	<iostream>
+	<stdio.h>
+
+1475532582 source:k:\clabs\tsd_lab01_ver6\bigdouble.cpp
+	"BigDouble.h"
+
+1475532324 source:k:\clabs\tsd_lab01_ver6\bigint.cpp
+	"BigInt.h"
+

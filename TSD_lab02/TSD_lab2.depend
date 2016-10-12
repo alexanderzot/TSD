@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1476167237 source:c:\projects\clabs\tsd_lab2\doublestackarray.cpp
+	"DoubleStackArray.h"
+
+1476167551 source:c:\projects\clabs\tsd_lab2\main.cpp
+	<iostream>
+	<stdio.h>
+	<ctime>
+	"DoubleStackArray.h"
+	"StackList.h"
+
+1476030752 c:\projects\clabs\tsd_lab2\doublestackarray.h
+	<iostream>
+	<stdlib.h>
+
+1476167046 c:\projects\clabs\tsd_lab2\stacklist.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1476167118 source:c:\projects\clabs\tsd_lab2\stacklist.cpp
+	"StackList.h"
+
