@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1477342746 source:c:\projects\bmstu\tsd\tsd_lab03\main.cpp
+	<iostream>
+	<stdlib.h>
+	"libio.h"
+	"libalg.h"
+
+1476729032 c:\projects\bmstu\tsd\tsd_lab03\types.h
+
+1476772246 c:\projects\bmstu\tsd\tsd_lab03\libio.h
+	"types.h"
+	<stdio.h>
+	<string>
+
+1477285546 source:c:\projects\bmstu\tsd\tsd_lab03\libio.cpp
+	"libio.h"
+
+1477298664 source:c:\projects\bmstu\tsd\tsd_lab03\libalg.cpp
+	"libalg.h"
+
+1477298228 c:\projects\bmstu\tsd\tsd_lab03\libalg.h
+	"libio.h"
+	<stdlib.h>
+
